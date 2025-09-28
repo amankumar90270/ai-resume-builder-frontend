@@ -1,8 +1,8 @@
-
+import Register from "./components/Register"
 function App() {
   return (
     <>
-      <div>This is Aman</div>
+      <Register/>
     </>
   )
 }
